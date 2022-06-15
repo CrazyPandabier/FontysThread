@@ -1,5 +1,9 @@
-# FontysThread
+# FontysThread 
+![image](https://user-images.githubusercontent.com/45392496/173788878-7cc767a6-c99c-47be-88fc-0cca05b3ccad.png)
+
 In this repository you can find the information we found during our thread project
+
+![image](https://user-images.githubusercontent.com/45392496/173789010-d3455a7f-8082-4db5-856d-35823295784a.png)
 
 # Important Links
 OpenThread information: https://openthread.io/
